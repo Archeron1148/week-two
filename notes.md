@@ -27,3 +27,8 @@ Graveyard Project:
         -get coordinates
         -note landmarks if any
 
+
+
+log:
+    printed out satilite imagery
+    
