@@ -30,6 +30,7 @@ Graveyard Project:
 
 
 log:
+    
     printed out satilite imagery
     printed 20 memorial forms (I counted 15 stones on the image, added 33% extra)
     printed out codesheets
