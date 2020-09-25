@@ -16,4 +16,14 @@ PODCAST:
 
 Cemetery, 864 River Rd, Manotick, ON K4M 0E2
 
+Graveyard Project:
+
+    I would like to ask for permission to do a study of the grave monuments in [name of cemetery], as part of my coursework. This would involve photographing and measuring the stones. I will not be interfering with the stones or any of the planting or landscape. I believe it should not take me more than three or four days. The information I collect will be used in my class and ideally will be online if you agree. I can put you in contact with my Professor, Dr. Shawn Graham, if you have any questions about that aspect of the work.
+    
+    1. sketch the graveyard:
+        -print out satilite image
+        -number and mark each stone on the map
+        -measure and mark any stones that are hidden from satilite view
+        -get coordinates
+        -note landmarks if any
 
