@@ -14,7 +14,7 @@ PODCAST:
     -whitewashing of indigenous and african decendant burial rituals
     -concrete bad for gravestones
 
-Cemetery, 864 River Rd, Manotick, ON K4M 0E2
+Cemetery, 864 River Rd, Manotick, ON K4M 0E2 --> RRMC? river road manotick cemetery?
 
 Graveyard Project:
 
@@ -31,4 +31,7 @@ Graveyard Project:
 
 log:
     printed out satilite imagery
+    printed 20 memorial forms (I counted 15 stones on the image, added 33% extra)
+    printed out codesheets
+    
     
