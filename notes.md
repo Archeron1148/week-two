@@ -26,5 +26,14 @@ Graveyard Project:
         -measure and mark any stones that are hidden from satilite view
         -get coordinates
         -note landmarks if any
+    2. visit graveyard to collect data:
+        -fill out a sheet for each stone
+        -take pictures
+    3. record data online
     
+issues with kobotoolbox
+
+    -inscription box is a one line text box instead of a multiline text box
+    -only allows one image to be uploaded per stone
+    -there is width and hight of base but no thickness
     
