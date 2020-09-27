@@ -26,13 +26,5 @@ Graveyard Project:
         -measure and mark any stones that are hidden from satilite view
         -get coordinates
         -note landmarks if any
-
-
-
-log:
-    
-    printed out satilite imagery
-    printed 20 memorial forms (I counted 15 stones on the image, added 33% extra)
-    printed out codesheets
     
     
