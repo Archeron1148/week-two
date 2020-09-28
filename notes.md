@@ -37,3 +37,5 @@ issues with kobotoolbox
     -only allows one image to be uploaded per stone
     -there is width and hight of base but no thickness
     
+    -Individuals form only has years but no months of age
+    
