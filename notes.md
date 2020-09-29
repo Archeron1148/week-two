@@ -99,17 +99,18 @@ https://via.hypothes.is/http://revistas.jasarqueologia.es/index.php/APJournal/ar
     hese objections intersect with the diverse ways in which people understand and connect with death and the dead. 
         -This is also true of cemeteries that are more or less 'abandoned' or rather, not being used for internment any longer. The extant surrounding community might be very different than the community during the cemetery's use, so the questions can become very complicated. - Graham
     Altogether, data  created  through  commercial,  academic,  and  community avenues continues to be dominated by white historical narratives, often restricting the (perceived) usefulness of data and its relevance to contemporary research and understandings of the past. 
-    
-    
-    
-    
+    The most important lesson learned in the MAP process was that, even if there is a strong public audience that is proven to be an active online community, if you build it, they will not necessarily utilize the resource. 
+    Researchers and the public may have different needs in research; however, one thing that they have in common is that they both make many assumptions about the value of funerary monuments as historical records. 
+    Data in isolation do not stimulate interest, or challenge conventions in archaeological practice or social memory. The more we demonstrate the potential avenues yet to be explored, the more data are valued for reuse and creative practice amongst professional and public audiences. 
+    However, while more and more people are competent in moving through digital environments like social media, it  does  not  mean  that  they  are  effective  digital  data  managers  or  analysts, either within academia or beyond it. In academia, data reuse precipitates  attitudinal  shifts,  including  valuing  collaboration  and reanalysis or re-exploration of data without a sense of territorialism or  competition.
+    it is important to critically reflect on the ways in which digital archaeology is never neutral or apolitical. Use and analysis of open data necessitates high levels of digital literacy, and even at times access to advanced computing and strong Internet access.
+    Open  science  intersects  democratizing and decolonizing practices in scholarship; however, the reliance on technology and digital literacy to achieve these goals does not necessarily remove all barriers for all communities (Suber 2012: 26–27).
+    Cemeteries have always been public spaces and meaningful places for  the  living,  but  they  have  also  changed  over  time  to  reflect changing  attitudes  and  experiences  of  these  living  communities.  Digital cemetery initiatives must equally be adaptable places for the living to explore and engage. If they are not created from the perspective of who might use them, why and how, open cemeteries may end up equally neglected as their physical counterparts. 
+
+
+
 perhaps one part of the reason its so hard to define ethics for digital archaeology is because nobody is sure what digital archaeology is in the first place
 technologies are increasingly becoming 'black-boxes,' as they become more and more complex it begins harder and harder to truely understand how they work from head to toe
 
 "The creation of research designs that rely on black box technologies cannot effectively address whether those designs are meeting the ethical standards agreed upon by consensus within archaeology as a field. By its very nature, if a system cannot be understood by its user, then its user cannot ensure that a formalized ethical compliance is being met, let alone if an aspirational ethical standard is being met. " - L Meghan Dennis
 apply this to digital archaeology as a whole i.e. how can we do digital archaeology ethically if we arent totally sure about what it is
-
-    
-    
-    
-
